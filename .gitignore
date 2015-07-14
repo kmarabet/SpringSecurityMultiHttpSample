@@ -1,0 +1,53 @@
+
+# Compiled source #
+###################
+*target*
+*.jar
+*.war
+*.ear
+*.class
+
+# Intellij Idea #
+#################
+.idea/
+*.iml
+*.iws
+
+# Eclipse specific git ignore #
+###############################
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+.classpath
+.settings/
+.loadpath
+
+# JavaScript specific files #
+#############################
+*node_modules*
+*dist*
+application/main/webapp/assets/*
+
+# Logs and databases #
+######################
+*.log
+
+# OS generated files #
+######################
+*~
+*.lock
+*.swp
+*.out
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
