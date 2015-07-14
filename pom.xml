@@ -3,7 +3,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.altoros</groupId>
+    <groupId>com.example</groupId>
     <artifactId>SpringSecurityMultiHttpSample</artifactId>
 
     <packaging>war</packaging>
@@ -18,18 +18,6 @@
     </properties>
 
     <dependencies>
-
-		<dependency>
-			<groupId>org.springframework.session</groupId>
-			<artifactId>spring-session-data-redis</artifactId>
-			<version>1.0.1.RELEASE</version>
-			<!--<type>pom<type>-->
-		</dependency>
-        <dependency>
-            <groupId>com.github.kstyrc</groupId>
-            <artifactId>embedded-redis</artifactId>
-            <version>0.6</version>
-        </dependency>
 
         <!-- Spring -->
         <dependency>
