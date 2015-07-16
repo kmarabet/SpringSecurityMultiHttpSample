@@ -1,11 +1,9 @@
-1. Introduction
-
+# 1. Introduction
 This sample application is aimed to demontsrate how to use multiple http authentication in on web application, particularly a username/password with login page authentication and a basic authentication for a rest api.
 
   The security part is based on: http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#multiple-httpsecurity
 
-2. License
-
+# 2. License
 This sample application and its associated source code in its entirety is being made available under the following licensing terms.
 
 Copyright (C) 2015
